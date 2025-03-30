@@ -17,8 +17,8 @@ const ProjectLayout = ({ name, description, tools = [], demoLink, githubLink }) 
       <p className="text-sm sm:text-base text-muted">{description}</p>
       
       {/* Ensuring tools text wraps properly */}
-      <p className="text-sm text-blue-400 font-medium break-words whitespace-normal overflow-hidden">
-        <span className="font-semibold">Tools Used:</span> {Array.isArray(tools) ? tools.join(", ") : tools}
+      <p className="text-sm text-blue-500 font-medium break-words whitespace-normal overflow-hidden">
+        <span className="font-semibold text-blue-200">Tools Used:</span> {Array.isArray(tools) ? tools.join(", ") : tools}
       </p>
 
       <div className="flex flex-wrap items-center gap-3 sm:gap-4">
