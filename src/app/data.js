@@ -2,6 +2,7 @@ export const projectsData = [
   {
     id: 1,
     name: "Bookwise",
+    type:"fullstack",
     description: "Full-Stack library management system",
     tools: "Nextjs, REST API's, PostgreSQL, Upstash(Redis), Imagekit.io",
     githubLink: "https://github.com/Bharathbhatti/university-library-bhatti",
@@ -9,6 +10,7 @@ export const projectsData = [
   },
   {
     id: 2,
+    type:"frontend",
     name: "ShopperzKart",
     description: "Ecommerce Website",
     tools: "Nextjs, Redux Toolkit, TypeScript, Next-Auth, Stripe",
@@ -18,6 +20,7 @@ export const projectsData = [
   {
     id: 3,
     name: "Crypto Price Tracker",
+    type:"frontend",
     description: "A tool to track Crypto prices",
     tools: "React, JavaScript, CoinGecko API, React Google Charts",
     githubLink: "https://github.com/Bharathbhatti/CryptoApi",
@@ -26,6 +29,7 @@ export const projectsData = [
   {
     id: 4,
     name: "Bharath-Portfolio",
+    type:"frontend",
     description: "My 3D Portfolio",
     tools: "Threejs, Nextjs, FramerMotion, Emailjs",
     githubLink: "https://github.com/Bharathbhatti/My-3D-Portfolio",
@@ -34,10 +38,29 @@ export const projectsData = [
   {
     id: 5,
     name: "Planet-Finder",
+    type:"frontend",
     description: "A tool to find planets",
     tools: "Nextjs, Redux Toolkit, Ant Design, TypeScript, framer-motion",
     githubLink: "https://github.com/Bharathbhatti/Planet-Finder",
     demoLink: "https://planet-finder-neon.vercel.app/",
+  },
+  {
+    id: 6,
+    name: "Smartnotes",
+    type:"backend",
+    description: "A note-taking app",
+    tools: "MongoDB, Express, React, Nodejs, JWT, Postman",
+    githubLink: "https://github.com/Bharathbhatti/Notes-App",
+    demoLink: "https://notes-app-87fe.vercel.app/login", 
+  },
+  {
+    id: 7,
+    name: "Contact Manager App",
+    type:"backend",
+    description: "a contact management system",
+    tools: "Nodejs, Express, MongoDB, JWT, bcrypt",
+    githubLink: "https://github.com/Bharathbhatti/Contact-Manager-App",
+    demoLink: "https://github.com/Bharathbhatti/Contact-Manager-App",
   },
 ];
 

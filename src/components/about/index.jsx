@@ -11,31 +11,38 @@ const AboutDetails = () => {
             About Me
           </h2>
           <p className="font-light text-sm sm:text-base md:text-lg mt-4">
-            Hi, I'm Bharath BN, a tech enthusiast and problem-solver passionate
-            about crafting efficient and user-friendly software solutions. With
-            a strong foundation in full-stack web development and DevOps, I love
-            leveraging modern technologies to build scalable systems that make
-            life easier. I recently graduated from National Institute of
-            Technology, Goa, earning a Bachelor's degree in Electronics and
-            Communication Engineering.
+            Hi, I'm Bharath BN, an aspiring Full Stack Developer with a strong
+            passion for building scalable, high-performance web applications. I
+            specialize in crafting modern, responsive frontends using React.js,
+            Next.js, TypeScript, and Tailwind CSS, while also engineering robust
+            backend systems with Node.js, Express.js, and databases like
+            MongoDB, MySQL, and PostgreSQL.
             <br />
             <br />
-            My journey as a developer has been fueled by hands-on experience
-            designing innovative projects like BookWise, a feature-rich library
-            management system, and ShopperzKart, a responsive e-commerce
-            platform with seamless payment integration. Beyond full-stack web
-            development, I'm delving into DevOps practices to optimize
-            deployment pipelines and boost system reliability. Equipped with
-            certifications from IBM and HackerRank, I have a demonstrated
-            proficiency in Python, SQL, React.js, and REST APIs, among others.
+            Graduating with a B.Tech in Electronics and Communication
+            Engineering from NIT Goa, I have developed a strong foundation in
+            Data Structures, Algorithms, OOPS, DBMS, and Operating Systems. My
+            experience includes designing and deploying full-stack applications
+            such as BookWise, SmartNotes, and ShopperzKart, where I implemented
+            secure authentication, optimized database performance, integrated
+            payment gateways, and improved application scalability.
             <br />
             <br />
-            I'm on a continuous learning curve, exploring cutting-edge tools
-            like Docker and Kubernetes to master containerization and
-            orchestration, while keeping a sharp focus on the core principles of
-            Data Structures, OOPS, and problem-solving. Feel free to check out
-            my projects, GitHub, or LinkedIn, and let’s connect and create
-            something amazing together!
+            I’m skilled in DevOps practices like containerization with Docker,
+            deployment on platforms like Vercel and Netlify, and setting up
+            CI/CD pipelines to ensure smooth and reliable production workflows.
+            My approach combines strong technical expertise with a keen focus on
+            building user-friendly, maintainable, and efficient software
+            solutions.
+            <br />
+            <br />
+            Beyond coding, I enjoy solving problems on LeetCode, exploring new
+            technologies, and continuously pushing myself to learn and grow in
+            this ever-evolving field.I'm excited to apply my full-stack skills
+            to create impactful digital experiences and work with teams that
+            value innovation, collaboration, and continuous improvement.Feel
+            free to check out my projects, GitHub, or LinkedIn, and let’s
+            connect and create something amazing together!
           </p>
         </ItemLayout>
       </div>
